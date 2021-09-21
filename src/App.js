@@ -13,8 +13,17 @@ export default function App() {
     "😢": "sad",
     "😩": "tired",
     "😎": "cool",
-    "": "",
-    "": ""
+    "👻": "ghost",
+    "☹️": "dissappointed",
+    "🤯":"mind blown",
+    "🤥":"liar",
+    "😐":"not funny",
+    "🥰":"feeling loved",
+    "😜":"naughty",
+    "😭":"crying",
+    "😇":"holy as a cow",
+    "😴":"sleepy head",
+    "😻":"pussy love",
   };
 
   // To convert the Dictionary to a list
